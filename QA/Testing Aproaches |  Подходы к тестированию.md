@@ -27,6 +27,8 @@ _Цель тестирования (test target): Набор критериев 
 
 Можно комбинировать разные подходы, например, динамический подход, основанный на оценке риска.
 
-Источник:
+- White Box Testing is a technique in which software’s internal structure, design, and coding are tested to verify input-output flow and improve design, usability, and security. In white box testing, code is visible to testers, so it is also called Clear box testing, Open box testing, Transparent box testing, Code-based testing, and Glass box testing.
 
-[ISTQB Foundation - 5.2.6 Test Strategy, Test Approach](https://istqbfoundation.wordpress.com/2017/09/18/test-strategy-test-approach/)
+- Gray box testing is a software testing technique to test a software product or application with partial knowledge of the internal structure of the application. The purpose of gray box testing is to search and identify the defects due to improper code structure or improper use of applications.
+
+- Black Box Testing is a software testing method in which the functionalities of software applications are tested without having knowledge of internal code structure, implementation details and internal paths. Black Box Testing mainly focuses on input and output of software applications and it is entirely based on software requirements and specifications. It is also known as Behavioral Testing.
